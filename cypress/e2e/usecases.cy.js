@@ -2,8 +2,8 @@
 
 describe ("teste lacrei e2e", ()=> {
   beforeEach(()=>{
-    const email = "micheleee549@gmail.com";
-    const passwd = "1234567Mr.";
+    const email = "***";
+    const passwd = "***";
     cy.login(email, passwd);
   })
   
